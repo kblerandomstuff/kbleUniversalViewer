@@ -1,0 +1,16 @@
+{
+    "三隻小豬的故事": {
+        "第01話": {
+            "b64g": "https://gist.githubusercontent.com/kble-x/956bd137141158317315565a6cd32fca/raw/d2cee217174e0e0b978a046d241b4e05f2bd7860/20230110234650",
+            "tg": "https://gist.githubusercontent.com/kble-x/b5ff53a6baa7db4cafdd02c11fe2f363/raw/569f2ad7728ca0f2afae2793277108349b475918/20230110234655"
+        },
+        "第02話": {
+            "b64g": "https://gist.githubusercontent.com/kble-x/08075d7fde902a0dc0a5727d0143d014/raw/ed0029e65ad223e2ec25701bf18ecfd158d490fb/20230110234745",
+            "tg": "https://gist.githubusercontent.com/kble-x/5fa6828505cb951a0fdb8db1cffb23d8/raw/4ef1f0c60aa297c176b90acd9f8211688ed8b205/20230110234752"
+        },
+        "第03話": {
+            "b64g": "https://gist.githubusercontent.com/kble-x/f57a922eb4410459a0354e1550df0407/raw/ce24e216b5c7edf2f96ae413988c33995c57f0bd/20230110234840",
+            "tg": "https://gist.githubusercontent.com/kble-x/d79bd1ef5739ab4e04cb1a6f6b750a1a/raw/a085c6adddb2c5671ce6e113ee8d13b8a1bc2525/20230110234844"
+        }
+    }
+}
